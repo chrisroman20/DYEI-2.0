@@ -1,0 +1,19 @@
+.icon_back{
+    font-size: 1.5rem;
+    color: #4752A4;
+    background-color: transparent;
+}
+
+.btn_back{
+    border: 1px solid #4752A4;
+    background-color: #DFE1F0;
+    border-radius: 100%;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.btn_back:hover{
+    background-color: #939ACA;
+    color: #DFE1F0;
+}

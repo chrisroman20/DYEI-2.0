@@ -1,0 +1,24 @@
+.hero{
+    width:100%;
+    background-image: url(../Assets/Hero.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:top;
+  
+  }
+  
+  h1{
+    color: #FAF9F8;
+    font-size: 5em;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background: transparent !important;
+    text-shadow: 1px 1px 2px #000000;
+  }
+  
+  .txt-hero{
+    background: transparent !important;
+    color: #FAF9F8;
+  }
